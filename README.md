@@ -58,3 +58,7 @@ Here you need to identify the schema/model fields by observing the UIs, The goal
 - Please ask us for any hurdle in your problem assignment.
 
 <b>Note: <b> please use sqlite database and tables should be related to other tables.
+
+
+User Authentication Completed using token authentication along with endpoints
+Vehicle details model created along with endpoints
