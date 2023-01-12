@@ -62,3 +62,13 @@ Here you need to identify the schema/model fields by observing the UIs, The goal
 
 User Authentication Completed using token authentication along with endpoints
 Vehicle details model created along with endpoints
+
+api/signup/renter/
+api/signup/owner/
+api/login/
+api/logout/
+api/renter/dashboard/
+api/owner/dashboard/
+vehicle/
+these are the working endpoints
+Tokens are in Admin page
